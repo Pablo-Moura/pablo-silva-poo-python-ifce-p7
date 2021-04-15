@@ -1,4 +1,5 @@
 """
+
 O triângulo pode ser classificado com base no comprimento de
 seus lados em equilátero, isósceles ou escaleno. Todos os três lados de um
 triângulo equilátero têm o mesmo comprimento. Um triângulo isósceles tem dois
