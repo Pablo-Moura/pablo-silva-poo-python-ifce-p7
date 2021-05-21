@@ -32,6 +32,3 @@ class FolhaPagamento:
         total_pagar = (self.total_salario() + self._total_proventos) - self._total_descontos
         print('Total de Salários = %.2f\nTotal de Proventos = %.2f\nTotal de Descontos = %.2f\nTotal'
               ' a Pagar = %.2f\n' % (self.total_salario(), self._total_proventos, self._total_descontos, total_pagar))
-"""        print('Total de Salários = {}\nTotal de Proventos = {}\nTotal de Descontos = {}\n'
-              'Total a Pagar = {}'.format(self.total_salario(), self._total_proventos, self._total_descontos,
-                                          total_pagar))"""

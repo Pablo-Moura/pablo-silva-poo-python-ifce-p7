@@ -3,7 +3,6 @@ from colaborador import Colaborador
 from movimento_folha import MovimentoFolha
 from tipomovimento import TipoMovimento
 
-
 def main():
 
     fp = FolhaPagamento(9, 2019, 0, 0)
